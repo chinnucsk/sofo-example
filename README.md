@@ -1,4 +1,4 @@
-erlang.tpl
+sofo
 ==========
 
-Project template
+Simple-one-for-one example
